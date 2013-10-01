@@ -1,5 +1,8 @@
 *.py[cod]
 
+# vim files
+.*.sw*
+
 # Ignore some upstream stuff
 RECOGNITION/
 
