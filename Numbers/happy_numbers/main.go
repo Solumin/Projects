@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// The thing about happy numbers is that you can easy define them recursively.
+// The thing about happy numbers is that you can easily define them recursively.
 // - Base case: 1 is a happy number
 // - Induction: A number is happy if the sum of the squares of its digits is
 //   happy
